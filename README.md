@@ -17,3 +17,7 @@ Python:-
  Lambda function
 
  Map function
+
+Note
+x+=i
+means x=x+i
