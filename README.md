@@ -1,5 +1,5 @@
 # CompletePython-in-7days
-Python:-
+#Python:-
  List
 
  Dictionary
@@ -17,6 +17,8 @@ Python:-
  Lambda function
 
  Map function
+
+# Numpy
 
 Note
 x+=i
