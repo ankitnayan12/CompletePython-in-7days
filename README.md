@@ -21,6 +21,6 @@
 
 # Numpy
 
-Note
+# Notes
 x+=i
 means x=x+i
