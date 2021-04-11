@@ -1,23 +1,23 @@
 # CompletePython-in-7days
 
 # Python:-
- List
+ 1.List
 
- Dictionary
+ 2. Dictionary
 
- Tuples
+ 3. Tuples
 
- Strings
+ 4. Strings
 
- Flow of control(if-else)
+ 5. Flow of control(if-else)
 
- For loop
+ 6. For loop
 
- Python function
+ 7. Python function
 
- Lambda function
+ 8. Lambda function
 
- Map function
+ 9. Map function
 
 # Numpy
 
@@ -26,6 +26,7 @@ x+=i
 means x=x+i
 
 # Pandas
+
 # Matplotlib
 
 Note:- you can download all dataset from kaggle
