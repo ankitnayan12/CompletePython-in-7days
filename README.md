@@ -1,7 +1,7 @@
 # CompletePython-in-7days
 
 # Python:-
- 1.List
+  1.List
 
  2. Dictionary
 
